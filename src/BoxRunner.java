@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class BoxRunner {
+public class BoxRunner {
+    public static void main(String[] args){
+
+    }
 }
